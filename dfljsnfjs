@@ -1,0 +1,55 @@
+[33mcommit c8d881ec930f0d26b1c2e28ccf10a50432782638[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5d371df 89e6692
+Author: Mapi <mhernandezmendieta@gmail.com>
+Date:   Thu Jul 19 18:38:59 2018 +0100
+
+    Merge branch 'master' of https://github.com/ElenaAMorales/Conflict
+
+[33mcommit 5d371dfb09a766f775c889d4889f2f9c871202aa[m
+Author: Mapi <mhernandezmendieta@gmail.com>
+Date:   Thu Jul 19 18:37:41 2018 +0100
+
+    color
+
+[33mcommit 89e6692a11fed038e426dc39b138dd98964582d7[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ElenaAMorales <elena.alonso.morales@gmail.com>
+Date:   Thu Jul 19 18:31:00 2018 +0100
+
+    Intent1
+
+[33mcommit fe069e9f058990b2eef35f96741cb54834e78d3d[m
+Merge: 6815207 c21061c
+Author: ElenaAMorales <elena.alonso.morales@gmail.com>
+Date:   Thu Jul 19 18:27:26 2018 +0100
+
+    Merge branch 'master' of https://github.com/ElenaAMorales/Conflict
+
+[33mcommit c21061c7a098d88ac318e89c83c22b10050cd858[m
+Author: Mapi <mhernandezmendieta@gmail.com>
+Date:   Thu Jul 19 18:22:32 2018 +0100
+
+    cambio
+
+[33mcommit 681520708840b97c99075f86769565086159bd44[m
+Author: ElenaAMorales <elena.alonso.morales@gmail.com>
+Date:   Thu Jul 19 18:22:04 2018 +0100
+
+    Correct
+
+[33mcommit 131d2384eaf2b1766c83acaa50861a874f52fbdf[m
+Author: Mapi <mhernandezmendieta@gmail.com>
+Date:   Thu Jul 19 18:15:26 2018 +0100
+
+    Intento de conflicto
+
+[33mcommit 22c56e01e53a7cfd2634e87dcca94673ecfb94d6[m
+Author: ElenaAMorales <elena.alonso.morales@gmail.com>
+Date:   Thu Jul 19 17:54:47 2018 +0100
+
+    My favorite food
+
+[33mcommit c4f468b9d7542876751339f0befdb8cdc93ebc9d[m
+Author: Elena Alonso <41322936+ElenaAMorales@users.noreply.github.com>
+Date:   Thu Jul 19 17:45:00 2018 +0100
+
+    Initial commit

@@ -1,0 +1,2 @@
+# Conflict
+Resolve conflict

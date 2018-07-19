@@ -1,4 +1,5 @@
-Clonaremos el repositorio de nuestra compañera y rojo le pondremos o abriremos un issue a través de la web de Github para que 
+
+Clonaremos el repositorio de nuestra compañera y rojo pistacho le pondremos o abriremos un issue a través de la web de Github para que 
 nos añada como colaboradora con permisos de escritura.
 
 No es tan habitual pero de tanto en tanto querremos hacer limpieza en nuestra cuenta de GitHub. 
